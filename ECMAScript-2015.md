@@ -88,3 +88,41 @@ isNaN https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_O
 ## 18. 实例方法 Array.prototype.entries
 
 参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/entries
+
+## 19. 解构赋值
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+## 19. 解构赋值
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Template_literals
+
+## 实例方法 String.prototype.repeat
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
+
+## 实例方法 String.prototype.normalize
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/normalize
+
+## 实例方法 String.prototype.codePointAt
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/codePointAt
+
+## 静态方法 String.raw
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/raw
+
+## 静态方法 String.fromCharCode
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+
+## 静态方法 Number.parseInt / Number.parseFloat
+
+参考 
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number/parseInt
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number/parseFloat
+
+## 静态数据属性 Number.EPSILON
+
+参考 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON
